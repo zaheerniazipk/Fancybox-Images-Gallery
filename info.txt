@@ -1,0 +1,15 @@
+Download Images:
+Images Download from https://wallpaperaccess.com/neon-avengers
+Search Query : "Avangers Neon Wallpapers"
+
+FancyBox4
+https://fancyapps.com/docs/ui/quick-start
+
+
+CDN:
+CSS
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
+
+JS:
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+
